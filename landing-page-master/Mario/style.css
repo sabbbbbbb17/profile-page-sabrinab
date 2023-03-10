@@ -1,0 +1,78 @@
+/* Write some CSS below */
+body {
+    background-color: #FCECC9;
+    color:  #445E93;
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    font-weight: regular;
+}
+
+h1 {
+    font-size: 36px;
+    color: #7EB2DD;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 28px;
+    color: #7EB2DD;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+
+}
+
+#Introduction {
+    margin-bottom: 40px;
+}
+
+.btn-red {
+    text-decoration: none;
+  background-color: #F93943;
+  padding: 15px 20px;
+  color: #FCB0B3;
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 4px;
+  display: none;
+  }
+
+.btn-red:hover {
+    background-color: bisque;
+}
+.card-white {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    border: 2px solid #7EB2DD;
+    border-radius: 4px;
+    margin: 10px;
+    box-shadow: 10px 20px 30px #7EB2DD;
+
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+
+}
+
+ol {
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+}
+.name-underline {
+    color: #7EB2DD;
+    font-size: 100%;
+    text-shadow: 0 0 100px #445E93, 0 0 20px;
+}
+
+#cap:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+/* On se fait zizir */
